@@ -1,2 +1,2 @@
-# MTG-
-model 
+# MTG-mode delpyomeny 
+Football participants model
